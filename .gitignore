@@ -1,0 +1,15 @@
+# common
+.DS_Store
+Thumbs.db
+.idea/
+
+# node
+dist/
+node_modules/
+
+# jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
